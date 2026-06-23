@@ -6,5 +6,8 @@ A simple calculator program built using Python.
 - Subtraction
 - Multiplication
 - Division
+- Modulus
+- Power
+- Square root
 ### Author
 Simran kumari
