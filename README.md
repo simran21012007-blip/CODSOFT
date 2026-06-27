@@ -1,4 +1,4 @@
-# CODSOFT
+ # CODSOFT
 ## Task1 - Calculator
 A simple calculator program built using Python.
 ### Features
@@ -27,6 +27,15 @@ A python program where the user plays Rock,Paper,Scissors against the computer.
 - Score tracking
 - Win percentage
 - Game summary
+
+## Task4 - To do list application
+A simple command-line application developed using Python to manage daily tasks.
+### Features
+- Add multiple tasks
+- View tasks
+- Mark tasks as completed
+- Delete tasks
+- Input validation
   
 ### Author
 Simran kumari
