@@ -1,5 +1,5 @@
 import math
-print("======================= CALCULATOR =======================")
+print("======================= CALCULATOR =========================")
 
 while True:
     print("1. Addition")
