@@ -9,8 +9,6 @@ A simple calculator program built using Python.
 - Modulus
 - Power
 - Square root
-### Author
-Simran kumari
 
 ## Task2 - Password Generator
 A python program that generates strong random passwords.
@@ -20,8 +18,6 @@ A python program that generates strong random passwords.
 - Lowercase letters
 - Numbers
 - Special characters
-### Author 
-Simran kumari
 
 ## Task3 - Rock Paper Scissors 
 A python program where the user plays Rock,Paper,Scissors against the computer.
@@ -31,5 +27,6 @@ A python program where the user plays Rock,Paper,Scissors against the computer.
 - Score tracking
 - Win percentage
 - Game summary
+  
 ### Author
 Simran kumari
